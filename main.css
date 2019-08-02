@@ -1,6 +1,37 @@
-body {
-  font-size: 60px;
+a {
+  font-size: 18px;
   font-weight: 600;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
   color: indianred;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 100;
+  font-family: monospace;
+  padding-top: 40px;
+}
+
+h3 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 18px;
+  font-weight: 20;
+  padding: 20px;
+}
+
+.container {
+  position: relative;
+  left: 40px;
+  top: 20px;
+}
+
+.text-container {
+  position: relative;
+  left: 90px;
+  top: 50px;
+}
+
+img {
+  padding: 10px;
 }
