@@ -3,7 +3,7 @@ a {
   font-weight: 600;
   font-family: "Roboto Condensed", sans-serif;
   color: indianred;
-  padding: 20px;
+  padding-top: 20px;
 }
 
 h1 {
@@ -33,5 +33,7 @@ h3 {
 }
 
 img {
-  padding: 10px;
+  padding-top: 40px;
+  padding-left: 40px;
+  float: left;
 }
