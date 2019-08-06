@@ -48,6 +48,10 @@ img {
   float: left;
 }
 
+img:hover {
+  opacity: 0.7;
+}
+
 footer {
   position: fixed;
   font-size: 14px;
