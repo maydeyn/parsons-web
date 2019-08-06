@@ -48,7 +48,7 @@ img {
   float: left;
 }
 
-img:hover {
+.container img:hover {
   opacity: 0.7;
 }
 
