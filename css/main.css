@@ -28,6 +28,7 @@ h3 {
   margin: 20px;
 }
 
+/* for home page images */
 .container {
   position: relative;
   left: 10%;
@@ -36,8 +37,8 @@ h3 {
 
 .text-container {
   position: relative;
-  left: 90px;
-  top: 50px;
+  left: 100px;
+  top: 150px;
 }
 
 img {
@@ -59,4 +60,10 @@ footer {
   text-align: center;
   font-family: "Roboto Condensed", sans-serif;
   letter-spacing: 20px;
+}
+
+.img-container {
+  float: left;
+  padding-left: 10%;
+  padding-top: 100px;
 }
