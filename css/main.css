@@ -124,8 +124,8 @@ footer {
     grid-template-columns: 0 375px 0;
     grid-template-rows: auto auto;
     -webkit-box-align: start;
-        -ms-flex-align: start;
-            align-items: start;
+    -ms-flex-align: start;
+    align-items: start;
     overflow-x: hidden;
   }
 
@@ -160,7 +160,7 @@ footer {
 
   h3,
   a {
-    font-size: 18px;
+    font-size: 16px;
   }
   .detail-container {
     display: inline-grid;
