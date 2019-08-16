@@ -10,6 +10,8 @@ a {
   font-weight: 600;
   font-family: "Roboto Condensed", sans-serif;
   color: indianred;
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none;
 }
 
 h1 {
@@ -164,7 +166,7 @@ footer {
   }
   .detail-container {
     display: inline-grid;
-    grid-template-columns: 80px 340px 350px;
+    grid-template-columns: 80px 340px;
     grid-template-rows: auto;
     overflow: hidden;
   }
@@ -181,7 +183,7 @@ footer {
   .container {
     display: inline-grid;
     justify-items: center;
-    overflow-y: hidden;
+    overflow: scroll;
   }
 
   footer {
